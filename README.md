@@ -11,12 +11,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 29 March 2025
+From: 19 March 2025 - To: 30 March 2025
 
-Total Time: 3 hrs 8 mins
+Total Time: 5 hrs 13 mins
 
-Java     3 hrs 1 min     >>>>>>>>>>>>>>>>>>>>>>>>-   96.64 %
-CSS      6 mins          >------------------------   03.36 %
+Java     5 hrs 6 mins    >>>>>>>>>>>>>>>>>>>>>>>>-   97.98 %
+CSS      6 mins          >------------------------   02.02 %
 XML      0 secs          -------------------------   00.00 %
 Kotlin   0 secs          -------------------------   00.00 %
 ```
