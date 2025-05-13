@@ -11,11 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 10 May 2025
+From: 19 March 2025 - To: 11 May 2025
 
 Total Time: 39 hrs 16 mins
 
-Java             22 hrs 16 mins  >>>>>>>>>>>>>>-----------   56.70 %
+Java             22 hrs 17 mins  >>>>>>>>>>>>>>-----------   56.71 %
 Python           8 hrs 29 mins   >>>>>--------------------   21.60 %
 XML              6 hrs 28 mins   >>>>---------------------   16.49 %
 Kotlin           1 hr 44 mins    >------------------------   04.42 %
