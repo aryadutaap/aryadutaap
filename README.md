@@ -11,14 +11,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2025 - To: 24 July 2025
+From: 19 March 2025 - To: 25 July 2025
 
-Total Time: 133 hrs 41 mins
+Total Time: 140 hrs 8 mins
 
-XML              55 hrs 52 mins  >>>>>>>>>>---------------   41.78 %
-Java             53 hrs 21 mins  >>>>>>>>>>---------------   39.89 %
-Python           19 hrs 47 mins  >>>>---------------------   14.80 %
-Kotlin           4 hrs 10 mins   >------------------------   03.13 %
+Java             58 hrs 10 mins  >>>>>>>>>>---------------   41.50 %
+XML              57 hrs 30 mins  >>>>>>>>>>---------------   41.02 %
+Python           19 hrs 47 mins  >>>>---------------------   14.12 %
+Kotlin           4 hrs 10 mins   >------------------------   02.98 %
 TOML             9 mins          -------------------------   00.12 %
 CSS              6 mins          -------------------------   00.08 %
 JSON             5 mins          -------------------------   00.07 %
